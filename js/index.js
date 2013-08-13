@@ -67,7 +67,7 @@ function onDeviceReady() {
                 fadeAnimation:false,
             }).addTo(map);
 
-            new L.Hash(map)
+            new L.Hash(map);
 
             emr.fire('mapLoaded');
         });
