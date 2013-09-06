@@ -4,6 +4,7 @@ NETWORK:
 *
 
 CACHE:
+appcache.manifest
 index.html
 css/index.css
 css/mapbox.css
